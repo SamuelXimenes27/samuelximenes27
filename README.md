@@ -1,9 +1,9 @@
-## Olá, me chamo Samuel, estudante de Engenharia de Computação e aspirante a Dev Mobile e Web 👋
+## Olá, me chamo Samuel, estudante de Engenharia de Computação e Dev Mobile👋
 
 
 <div align="center">
   <a href="https://github.com/samuelximenes27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelximenes27&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelximenes27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelximenes27&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
